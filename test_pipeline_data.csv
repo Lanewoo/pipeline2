@@ -1,0 +1,7 @@
+Partner,Industry,Sales Stage,Probility,BD,Next Step,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,,,,,,,,,,,,,,,,,
+Company A,Tech,Proposal,High,John Doe,Follow up,10000,12000,11000,13000,0,0,0,0,0,0,0,0
+Company B,Finance,Negotiation,Medium,Jane Smith,Contract review,20000,22000,21000,23000,0,0,0,0,0,0,0,0
+Company C,Tech,High,High,Bob Johnson,Technical demo,15000,16000,15500,17000,0,0,0,0,0,0,0,0
+Company D,Healthcare,Proposal,Low,Alice Brown,Initial meeting,5000,6000,5500,7000,0,0,0,0,0,0,0,0
+Company E,Finance,Won,Won,Charlie Wilson,Closed,30000,0,0,0,0,0,0,0,0,0,0,0
